@@ -1,4 +1,6 @@
 # montecarlo-python
 Monte Carlo simulations and how to apply them to generate randomized future prices within Python. You can read the full guide from me in this link! http://digits.feb.unpad.ac.id/articles/2019/06/28/anaconda/
-![GitHub Logo](/done.jpg)
+![full](/done.jpg)
+![full](/simulation data frame.jpg)
+![full](/monte carlo example.png)
 
