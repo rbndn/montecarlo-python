@@ -1,4 +1,4 @@
 # montecarlo-python
 Monte Carlo simulations and how to apply them to generate randomized future prices within Python.
-![GitHub Logo](/images/example.jpg)
+![GitHub Logo](/done.jpg)
 
